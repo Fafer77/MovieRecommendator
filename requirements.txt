@@ -1,0 +1,13 @@
+# === Data & ML ===
+torch
+numpy
+pandas
+scikit-learn
+optuna
+matplotlib
+
+# === API ===
+fastapi
+uvicorn[standard]
+rapidfuzz
+requests
